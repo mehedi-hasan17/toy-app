@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.postimg.cc/GmKTf9Pg/Colorful-Building-Blocks.jpg",
+    "toyName": "Colorful Building Blocks",
+    "rating": 4.8,
+    "availableQuantity": 12,
+    "price": 25
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.postimg.cc/0N5D572p/Remote-Control-Ca.jpg",
+    "toyName": "Remote Control Car",
+    "rating": 4.6,
+    "availableQuantity": 8,
+    "price": 40
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.postimg.cc/0N9rdvLf/Plush-Teddy-Bear.jpg",
+    "toyName": "Plush Teddy Bear",
+    "rating": 4.9,
+    "availableQuantity": 15,
+    "price": 18
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.postimg.cc/5tmYZywh/Wooden-Train-Set.webp",
+    "toyName": "Wooden Train Set",
+    "rating": 4.7,
+    "availableQuantity": 10,
+    "price": 35
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.postimg.cc/Wb4nSLPm/NA-Play-House-Cooking-Toys-Kitchen-Playset-with-Accessories-Mini-Kitchen-Set-with-Realistic-Light.jpg",
+    "toyName": "Mini Kitchen Playset",
+    "rating": 4.5,
+    "availableQuantity": 7,
+    "price": 50
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.postimg.cc/8z6LnTXD/Action-Figure-Robot.webp",
+    "toyName": "Action Figure Robot",
+    "rating": 4.3,
+    "availableQuantity": 9,
+    "price": 30
+  }
+]
